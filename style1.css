@@ -1,18 +1,21 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(2, 82, 55);
+    font-family: system-ui, -apple-system, sans-serif;
+    color:aqua
+    margin: 0;
+    padding: 0;
 }
 
 h1{
-    background-color: rgb(68, 4, 4);
+    background-color: rgb(169, 249, 182);
     text-align: center;
     font-size: larger;
-    color: rgb(208, 228, 245);
+    color: rgb(1, 21, 39);
 }
 
 p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: medium;
     margin: 50px;
-    border: red solid 1px;
     
 }
